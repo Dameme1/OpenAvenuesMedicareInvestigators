@@ -1,7 +1,9 @@
 # Medicare Investigators - OpenAvenues
 
 In continuation of my Exploratory Data Analysis [here](https://github.com/Dameme1/EDA-OpenAvenues/blob/main/Tameem_Exploratory_Data_Analysis.ipynb). 
-I will be using that cleaned data and merge it with a nationwide dataset of doctors/clinicians from the CMS.gov website
+I will be further cleaning that data and merge it with a nationwide dataset of doctors/clinicians from the CMS.gov website
+
+This final project can be viewed [here](https://github.com/Dameme1/OpenAvenuesMedicareInvestigators/blob/main/Data_Analysis.ipynb).
 
 
 #### Dataset
