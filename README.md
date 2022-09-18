@@ -10,7 +10,9 @@ This final project can be viewed [here](https://github.com/Dameme1/OpenAvenuesMe
 
 #### Dataset
 There are three datasets used in this project. The first two were analyzed and explained in the Exploratory Data Analysis above...
+
 The third will be the nationwide dataset from the CMS website.
+
 The data sets include doctors names, NPI's, which medical school, and more that will be important for clinicians to know before choosing their potential hires. 
 
 ## Links
